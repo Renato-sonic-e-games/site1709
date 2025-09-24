@@ -1,5 +1,7 @@
-let nome = document.getElementById("nome")
-let email = document.getElementById("email")
-let senha = document.getElementById("senha")
+let nome = document.getElementById("nome").value
+
+
+
+document.getElementById("dados").innerHTML = nome;
 
 console.log(nome)
