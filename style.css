@@ -5,7 +5,8 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background: blue url("img/super-mario-world-yoshi.gif");
+    background: url("img/super-mario-world-yoshi.gif")
+
 }
 .box {
     width: 100vw;
